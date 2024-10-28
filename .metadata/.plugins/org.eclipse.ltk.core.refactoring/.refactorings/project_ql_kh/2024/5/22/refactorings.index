@@ -1,0 +1,29 @@
+1716683390626	Delete element
+1716707873592	Rename resource 'student'
+1716715056866	Rename type 'StudentController'
+1716715780538	Delete element
+1716802539854	Rename resource 'user'
+1716975024369	Rename type 'KhachHang'
+1716975468771	Delete element
+1716994216806	Delete element
+1716994284344	Move compilation unit
+1716994300806	Move 'AccountDAO2.java' to 'account'
+1716994307614	Move 'AccountImpl.java' to 'account'
+1716994310219	Move 'AccountRoleDAO.java' to 'account'
+1716994315885	Move 'RoleDAO.java' to 'account'
+1716994465574	Delete element
+1717060205971	Rename resource 'from_Add.jsp'
+1717062475663	Rename package 'duytan.controllers.qlKhachHang'
+1717062495451	Rename package 'duytan.controllers.viewKhachHang'
+1717069684976	Rename resource 'home.jsp'
+1717069761256	Move 'home.html' to 'user'
+1717069773246	Delete element
+1717069958070	Move 'home.jsp' to 'user'
+1717069992250	Delete element
+1717076517357	Move 'text.jsp' to 'main'
+1717076518887	Move 'view_khach_hang.jsp' to 'main'
+1717076524851	Move 'home.jsp' to 'main'
+1717077062731	Move 'header.jsp' to 'header'
+1717077066438	Move 'header.jsp' to 'footer'
+1717077069208	Move 'footer.jsp' to 'footer'
+1717077071177	Move 'header.jsp' to 'header'

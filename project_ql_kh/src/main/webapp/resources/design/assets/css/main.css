@@ -1,0 +1,162 @@
+/* css */
+.app {
+
+}
+
+/* header */
+.header {
+    height: var(--header-height);
+    border-bottom: 1px solid hsla(228, 9%, 89%, .5);
+    background-color: var(--white-color);
+    box-shadow: 0 8px 14px 0 rgba(0, 0, 0, .04);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 36px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.header__logo {
+
+}
+
+.header__logo-link {
+    text-decoration: none;
+}
+
+.header__logo-round {
+    font-size: 2.8rem;
+    color: var(--white-color);
+    background-color: var(--primary-color);
+    font-weight: 600;
+    border-radius: 20px;
+    padding: 4px 10px;
+    margin-right: 4px;
+}
+
+.header__logo-text {
+    font-size: 2.8rem;
+    font-weight: 600;
+    color: var(--black-color);
+}
+
+.header__login {
+    display: flex;
+    align-items: center;
+}
+
+.header__login-language {
+    border: none;
+    padding: 0;
+    background-color: transparent;
+}
+
+.header__login-language-icon {
+    font-size: 2.4rem;
+}
+
+.header__login-language-icon:hover {
+    color: var(--primary-color);
+    cursor: pointer;
+    transition: color .4s ease 0s, background-color .4s ease 0s;
+}
+
+.header__login-btn {
+    background-color: transparent;
+    border: 1px solid var(--primary-color);
+    border-radius: 100px;
+    font-weight: 400;
+    outline: none;
+    text-align: center;
+    padding: 0 37px;
+    line-height: 40px;
+    margin-left: 18px;
+}
+
+.header__login-link {
+    font-size: 1.6rem;
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+.header__login-btn:hover {
+    background-color: var(--primary-color);
+    transition: color .6s ease 0s, background-color .6s ease 0s;
+    cursor: pointer;
+}
+
+.header__login-btn:hover .header__login-link {
+    color: var(--white-color);
+    transition: color .6s ease 0s, background-color .6s ease 0s;
+    cursor: pointer;
+}
+
+/* container */
+.container {
+
+}
+
+/* start */
+.start {
+    padding: 128px 160px 64px 160px;
+    text-align: center;
+
+}
+
+.start__name {
+    display: block;
+    font-size: 6.6rem;
+    font-weight: bold;
+    line-height: 1em;
+    text-align: center;
+    font-family: open sans, sans-serif;
+}
+
+.start__sologant {
+    display: block;
+    font-size: 2.0rem;
+    padding-top: 34px;
+    font-family: open sans, sans-serif;
+}
+
+.start__btn {
+    font-size: 2.4rem;
+    font-weight: 500;
+    color: var(--white-color);
+    background-color: var(--primary-color);
+    border: none;
+    padding: 14px 37px;
+    border-radius: 100px;
+    transition: color .6s ease 0s, background-color .6s ease 0s;
+    margin-top: 40px;
+}
+
+.start__btn:hover {
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+/* introduce */
+.introduce {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 36px;
+}
+
+.introduce__imgs {
+}
+
+.introduce__img {
+    padding-top: 100%;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: contain;
+}
+
+/* footer */
+.footer {
+
+}

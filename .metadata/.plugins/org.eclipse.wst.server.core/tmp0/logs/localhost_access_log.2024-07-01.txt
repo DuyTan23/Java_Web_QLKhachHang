@@ -1,0 +1,13 @@
+127.0.0.1 - - [01/Jul/2024:07:10:51 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:07:10:53 +0700] "GET /project_ql_kh/ HTTP/1.1" 200 4357
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:07:10:53 +0700] "GET /project_ql_kh/resources/design/assets/css/main.css HTTP/1.1" 200 3083
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:07:10:53 +0700] "GET /project_ql_kh/resources/design/assets/fonts/themify-icons/themify-icons.css HTTP/1.1" 200 16435
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:07:10:53 +0700] "GET /project_ql_kh/resources/design/assets/css/base.css HTTP/1.1" 200 2186
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:07:10:53 +0700] "GET /project_ql_kh/resources/design/assets/fonts/fontawesome-free-6.4.2/fontawesome-free-6.4.2/css/all.css HTTP/1.1" 200 140292
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:07:10:53 +0700] "GET /project_ql_kh/resources/design/assets/img/introduce/introducemain.png HTTP/1.1" 200 149532
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:07:10:53 +0700] "GET /project_ql_kh/resources/design/assets/img/introduce/introduce2.png HTTP/1.1" 200 161332
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:07:10:53 +0700] "GET /project_ql_kh/resources/design/assets/img/introduce/introduce1.png HTTP/1.1" 200 637675
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:07:10:55 +0700] "GET /project_ql_kh/login HTTP/1.1" 200 1810
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:07:10:55 +0700] "GET /project_ql_kh/resources/design/assets/css/base.css HTTP/1.1" 200 2186
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:07:10:55 +0700] "GET /project_ql_kh/resources/design/assets/css/login.css HTTP/1.1" 200 2851
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:07:11:00 +0700] "GET /project_ql_kh/resources/assets1/img/logo/logostoreblue.png/ HTTP/1.1" 404 604

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;project_ql_kh/src/main/webapp/WEB-INF/views/views_page/user/khach_hang/main/text.jsp&apos; to &apos;hopdong_hethan.jsp&apos;" description="Rename resource &apos;text.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/views/views_page/user/khach_hang/main/text.jsp" name="hopdong_hethan.jsp" stamp="1717231315790" updateReferences="true"/>
+</session>
